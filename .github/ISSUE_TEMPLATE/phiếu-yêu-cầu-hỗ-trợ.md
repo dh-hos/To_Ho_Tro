@@ -1,7 +1,7 @@
 ---
-name: Phiếu điều chuyển
-about: Điều chuyển Yêu cầu, Báo lỗi
-title: 'Điều chuyển - '
+name: Phiếu yêu cầu hỗ trợ
+about: Yêu cầu hỗ trợ
+title: 'Hỗ trợ - '
 labels: Ghi nhận
 assignees: le-an-87
 
@@ -15,13 +15,13 @@ assignees: le-an-87
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/dh-hos/dhg.hospitalprinter/main/Deploy_Tools/Logo.ico" alt="Simple Icons" width=70>
-  <h1>PHIẾU  ĐIỀU CHUYỂN</h1>  
+  <h1>PHIẾU  YÊU CẦU HỖ TRỢ</h1>  
 </div>
 
 #
 -  ![khach_hang](https://img.shields.io/badge/Bệnh%20viện-:-blue?style=plastic&logo=github) **khach_hang**
--  ![nguoi_bao](https://img.shields.io/badge/Người%20ghi%20nhận-:-blue?style=plastic&logo=github) **nguoi_bao**
--  ![ngay_tiep_nhan](https://img.shields.io/badge/Ngày%20chi%20nhận-:-blue?style=plastic&logo=github) **ngay_tiep_nhan**
+-  ![nguoi_lien_he](https://img.shields.io/badge/Người%20liên%20hệ-:-blue?style=plastic&logo=github) **nguoi_bao**
+
 
 ###### ![chi_tiet_yeu_cau](https://img.shields.io/badge/Chi%20tiết%20yêu%20cầu%20-:-blue?style=for-the-badge&logo=github)
 ```
