@@ -20,7 +20,7 @@ assignees: le-an-87
 
 #
 -  ![khach_hang](https://img.shields.io/badge/Bệnh%20viện-:-blue?style=plastic&logo=github) **khach_hang**
--  ![nguoi_lien_he](https://img.shields.io/badge/Người%20liên%20hệ-:-blue?style=plastic&logo=github) **nguoi_bao**
+-  ![nguoi_lien_he](https://img.shields.io/badge/Người%20liên%20hệ-:-blue?style=plastic&logo=github) **nguoi_lien_he**
 
 
 ###### ![chi_tiet_yeu_cau](https://img.shields.io/badge/Chi%20tiết%20yêu%20cầu%20-:-blue?style=for-the-badge&logo=github)
