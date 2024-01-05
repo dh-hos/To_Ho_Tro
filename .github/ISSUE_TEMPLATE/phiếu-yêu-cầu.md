@@ -2,7 +2,7 @@
 name: Phiếu yêu cầu
 about: Yêu cầu thực hiện công việc
 title: 'Yêu cầu - '
-labels: Ghi nhận
+labels: Bình thường
 assignees: le-an-87
 
 ---
